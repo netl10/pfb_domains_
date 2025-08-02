@@ -46,9 +46,16 @@ dc.services.visualstudio.com
 # Teams / colaboração
 *.teams.events.data.microsoft.com
 
+# sharepoint / colaboração
+*.sharepoint.com
+*.sharepoint-df.com
+*.sharepointonline.com
+*.sharepointonline.cn
+
 #DOMINIOS MANSERV E UTEIS
-edp.com
-edp.com.pt
-manserv.com.br
-manserv.com
-smartalmox.com.br
+*.edp.com
+*.edp.com.pt
+*.edp.pt
+*.manserv.com.br
+*.manserv.com
+*.smartalmox.com.br
