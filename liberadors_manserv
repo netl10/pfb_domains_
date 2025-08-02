@@ -28,7 +28,23 @@ api.powerbi.com
 content.powerapps.com
 gatewayadminportal.azure.com
 dc.services.visualstudio.com
+*.prod.powerquery.microsoft.com
+*.pbidedicated.cn (se usar ambiente China)
+*.analysis.chinacloudapi.cn (se usar ambiente China)
+*.analysis.windows.net.edgekey.net
+*.excel.officeapps.live.com
+*.fabric.microsoft.com
+*.events.data.microsoft.com
+*.login.windows.net
+*.login.microsoftonline-p.com
 
+# Microsoft 365 geral (Office, Teams, Fabric etc.)
+*.cloud.microsoft
+*.static.microsoft
+*.usercontent.microsoft
+
+# Teams / colaboração
+*.teams.events.data.microsoft.com
 
 #DOMINIOS MANSERV E UTEIS
 edp.com
