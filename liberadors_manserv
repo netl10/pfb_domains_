@@ -1,10 +1,5 @@
+#DOMINIOS MICROSOFT
 
-*.microsoft.com
-*.live.com
-*.msftncsi.com
-*.office.com
-*.office365.com
-*.outlook.com
 *.hotmail.com
 *.microsoftonline.com
 *.msedge.net
@@ -33,3 +28,11 @@ api.powerbi.com
 content.powerapps.com
 gatewayadminportal.azure.com
 dc.services.visualstudio.com
+
+
+#DOMINIOS MANSERV E UTEIS
+edp.com
+edp.com.pt
+manserv.com.br
+manserv.com
+smartalmox.com.br
